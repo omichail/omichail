@@ -47,16 +47,16 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <b>🕸️ Graph-Theory-Algorithms</b><br>
-      A high-performance C++ backend computing shortest paths, minimum spanning trees, and maximum network flows, with Python visualizations.
-      <br><br>
-      <a href="https://github.com/omichail/Graph-Theory-Algorithms">🔗 View Repository</a>
-    </td>
-    <td width="50%" valign="top">
       <b>🎓 Thesis: Biomedical Optimal Control</b><br>
       A mathematical model and optimization algorithm for the delivery of drugs into malignant tumors using microneedles.
       <br><br>
       <a href="https://github.com/omichail/Thesis">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>🕸️ Graph-Theory-Algorithms</b><br>
+      A high-performance C++ backend computing shortest paths, minimum spanning trees, and maximum network flows, with Python visualizations.
+      <br><br>
+      <a href="https://github.com/omichail/Graph-Theory-Algorithms">🔗 View Repository</a>
     </td>
   </tr>
   <tr>
