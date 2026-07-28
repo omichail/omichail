@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Mykhailo Osadchyi 👋</h1>
+<h1 align="center">Hi there, I'm Mykhailo 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Mathematical+Modeler;C%2B%2B+%26+Python+Developer;Algorithm+Enthusiast&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Applied+Mathematician;C%2B%2B+%26+Python+Developer&center=true&width=500&height=50">
   </a>
 </p>
 
