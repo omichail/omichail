@@ -20,9 +20,12 @@
 
 ### 👨‍💻 Quick Facts & Achievements
 
-* 🎓 **Education:** Bachelor's Degree in Applied Mathematics from Taras Shevchenko National University of Kyiv.
-* 🏆 **Achievements:** Successfully completed a specialized course on GEO Optimization.
-* ⚡ **Fun fact:** When I'm not writing code or solving math problems, I love unwinding by exploring virtual worlds in my favorite video games! 🎮
+* 🎓 **Education**: Bachelor's Degree in Applied Mathematics from Taras Shevchenko National University of Kyiv.
+* 🔬 **Academic Focus**: Specialized in numerical methods, computational geometry, spline analysis, and mathematical modeling of complex systems, AI.
+* 🛠 **Algorithmic Mastery**: Experience building custom optimizers, CV feature extractors, and numerical solvers from scratch without reliance on "black-box" libraries.
+* 🏆 **Certifications & Training**: Successfully completed a specialized course on GEO Optimization.
+* 📫 **How to reach me**: michail.osadchyi@gmail.com
+* ⚡️ **Fun fact**: When I'm not writing code or solving math problems, I love unwinding by exploring immersive virtual worlds in my favorite video games! 🎮
 
 ---
 
@@ -52,10 +55,10 @@
       <a href="https://github.com/omichail/Thesis">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <b>🕸️ Graph-Theory-Algorithms</b><br>
-      A high-performance C++ backend computing shortest paths, minimum spanning trees, and maximum network flows, with Python visualizations.
+      <b>📊 Currency-Time-Series-Interpolator</b><br>
+      A numerical analytics pipeline implementing Linear, Quadratic, and Cubic splines from scratch to approximate exchange rate fluctuations.
       <br><br>
-      <a href="https://github.com/omichail/Graph-Theory-Algorithms">🔗 View Repository</a>
+      <a href="https://github.com/omichail/Currency-Time-Series-Interpolator">🔗 View Repository</a>
     </td>
   </tr>
   <tr>
@@ -74,10 +77,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>📈 SVM-Linear-Classifier</b><br>
-      A Support Vector Machine classifier implemented entirely from scratch in C++ using Gradient Descent, with Python visualizations.
+      <b>🕸️ Graph-Theory-Algorithms</b><br>
+      A high-performance C++ backend computing shortest paths, minimum spanning trees, and maximum network flows, with Python visualizations.
       <br><br>
-      <a href="https://github.com/omichail/SVM-Linear-Classifier">🔗 View Repository</a>
+      <a href="https://github.com/omichail/Graph-Theory-Algorithms">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <b>📐 Computational-Geometry-and-Qt-Snake</b><br>
